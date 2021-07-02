@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.container{
+    background-color: yellow;
+    height: 800px;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+}
+button{
+    border-radius: 30px;
+    background-color: aquamarine;
+    color: rgb(8, 8, 8);
+    font-size: 19px;
+    border-color: black ;
+    border-style: solid;
+    padding: 5px;
+    display: block;
+    margin: auto;
+}
+
+img{
+    visibility: hidden;
+    align-items: center;
+    
+}
+#btn{
+    visibility: hidden;
+}
+.friend{
+    text-align: center;
+    color: white;
+}
+*{
+    margin: auto;
+}
